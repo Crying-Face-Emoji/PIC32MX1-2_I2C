@@ -1,5 +1,5 @@
 
-# UART for PIC32MX1XX/2XX
+# I2C for PIC32MX1XX/2XX
 
 Author:  Rafael Silva  
 Name: PIC32MX1-2_I2C  
